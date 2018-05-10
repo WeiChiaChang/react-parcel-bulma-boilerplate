@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./src/index.js","dynamic":true}],"generated":{"html":"<!DOCTYPE html><html> <head> <title>React starter app</title> </head> <body> <div id=\"app\"></div> <script src=\"/876653c2a188ba7946ee58a5dbed5f07.js\"></script> </body> </html>"},"hash":"1edb0d735129b12ddd511932c386a7fc","cacheData":{}}
